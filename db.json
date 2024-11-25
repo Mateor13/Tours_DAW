@@ -1,0 +1,64 @@
+{
+  "tours": [
+    {
+      "id": "1",
+      "nombre": "Tour por las Iglesias",
+      "descripcion": "Explora las iglesias históricas más emblemáticas",
+      "tipo": "Exploración",
+      "ciudad": "Cuenca",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "12/04/2024",
+      "duracion": "2 días",
+      "maxParticipantes": 5,
+      "imagen": "https://i.pinimg.com/736x/c0/c9/f2/c0c9f2827d064ccf0849e9d624b01411.jpg",
+      "precio": 50
+    },
+    {
+      "id": "2",
+      "nombre": "Tour Quilotoa",
+      "descripcion": "Explora la maravillosa laguna del Quilotoa",
+      "tipo": "Volcán",
+      "ciudad": "Latacunga",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "12/04/2024",
+      "duracion": "2 días",
+      "maxParticipantes": 8,
+      "imagen": "https://i.ytimg.com/vi/OaOQ_uO2VNE/maxresdefault.jpg",
+      "precio": 50
+    },
+    {
+      "id": "218e1f4f-8421-4584-b49a-b395eeeebbc7",
+      "name": "Tour-Quilotoa",
+      "Price": "20",
+      "imagen": "https://res.cloudinary.com/dpob3taee/image/upload/v1732562854/tours/gbnp9cvmaen1ofzf49xc.jpg",
+      "public_id": "tours/gbnp9cvmaen1ofzf49xc"
+    },
+    {
+      "id": "ef2c12c2-ccc1-455b-a2ee-3ed0410e43bf",
+      "name": "Tour-Quilotoa",
+      "Price": "20",
+      "imagen": "https://res.cloudinary.com/dpob3taee/image/upload/v1732563584/tours/duejmhjg9avrvrqxr36p.jpg",
+      "public_id": "tours/duejmhjg9avrvrqxr36p"
+    },
+    {
+      "id": "629f1204-c63c-4a6c-85c2-dd682cbee0fa",
+      "name": "Tour-Quilotoa",
+      "Price": "20",
+      "imagen": "https://res.cloudinary.com/dpob3taee/image/upload/v1732563995/tours/qatym6g3u8l1r33pxkv7.jpg",
+      "public_id": "tours/qatym6g3u8l1r33pxkv7"
+    }
+  ],
+  "users": [
+    {
+      "id": "f319c13f-e7aa-48c1-9d26-9b5d5e7050a6",
+      "password": "$2b$10$FlbTUh6zwPvUaqG0.QWDguvi0Yxsp2ihXYV17f/2CpTgEbRKa7qau",
+      "name": "Byron",
+      "username": "Byron"
+    },
+    {
+      "id": "51d13994-7d62-4bdc-ad6b-7b0f658f512f",
+      "password": "$2b$10$7Q9hOp0bYIk5LRxCSigW6.L9NsGk6UPrzvFbRlO4H/2mHeh9wMiWe",
+      "username": "Mateor"
+    }
+  ]
+}
